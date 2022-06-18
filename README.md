@@ -35,5 +35,6 @@
 
     
 ### 📍 Takeaway
-* In deep learning model, Random Forest Regressor scored the lowest RMSE
-* In time series model, LSTM scored the lowest RMSE
+* Even though Non Linear ($x^3$) model achieved the highest score, the result is only based on 80 days (from Jan 21 2020 to Apr 18 2020) → might not apply for future prediction
+* 'Population' achieved the highest score in feature importance
+* There is no correlation between spreading speed and the number of confirmed cases (Even though California showed the fastest spreading speed, the confirmed cases was not the highest)
