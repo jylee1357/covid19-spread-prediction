@@ -14,14 +14,13 @@
 * "Time Series Covid 19 Death"
   - Number of new deaths from Jan 21 2020 to Apr 18 2020 in all 50 states
 
-### ⌨️ Models
-* Model Comparison 
-  - Deep learning model's RMSE
-    <img width="1040" alt="Screen Shot 2022-06-13 at 10 11 43 PM" src="https://user-images.githubusercontent.com/98932859/173361479-b682afb8-11ab-4e81-9b52-cdabe619b8ac.png">
-    <img width="1028" alt="Screen Shot 2022-06-13 at 10 13 31 PM" src="https://user-images.githubusercontent.com/98932859/173361722-89449368-f598-4d7f-abc2-5d705319e0ac.png">  
-    
-   - Time series model's RMSE
-    <img width="997" alt="Screen Shot 2022-06-13 at 10 17 13 PM" src="https://user-images.githubusercontent.com/98932859/173362374-c2c3510f-da8d-4365-8b4d-ebf1375be862.png">
+### ⌨️ Data Analysis & Models
+* EDA
+  - Comparing population by states
+    <img width="948" alt="Screen Shot 2022-06-18 at 4 03 41 PM" src="https://user-images.githubusercontent.com/98932859/174426892-01932828-8dd6-4c51-bbc9-5c2b02b8c347.png">
+   - Number of people tested vs confimed cases
+    <img width="883" alt="Screen Shot 2022-06-18 at 4 05 24 PM" src="https://user-images.githubusercontent.com/98932859/174426934-5733d401-38a2-42ee-8d3f-57028a57f49f.png">
+
     
 ### 📍 Takeaway
 * In deep learning model, Random Forest Regressor scored the lowest RMSE
